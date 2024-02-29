@@ -1,0 +1,35 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#hero {
+    background-color:#7550FE
+}
+
+#hero button {
+    margin-right: 0px;
+}
+
+
+#subHero {
+    border-bottom: 1px solid gray;
+    background-color: #FFFFFF;
+    padding: 10px;
+}
+
+#subHero .card {
+    background-color:#FFFFFF!important;
+}
+
+#card {
+    padding: 20px;
+    background-color: #F5F4F8;
+    padding-left: 100px;
+}
+
+.card-tipo {
+    padding: 0;
+}
